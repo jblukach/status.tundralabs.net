@@ -1,0 +1,27 @@
+baseURL = "status.tundralabs.net"
+languageCode = "en-us"
+title = "Tacklebox - Cloud Investigation Bot Status"
+theme = "yinyang"
+DefaultContentLanguage = "en"
+
+[author]
+  name = "Tacklebox Status"
+  homepage = "https://tacklebox.tundralabs.net"
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+
+[params]
+mainSections = ["posts"]
+
+[[params.socials]]
+name = "Tacklebox"
+link = "https://tacklebox.tundralabs.net"
+
+[[params.socials]]
+name = "RSS"
+link = "/index.xml"
+
