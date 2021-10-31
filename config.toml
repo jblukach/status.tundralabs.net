@@ -18,6 +18,10 @@ DefaultContentLanguage = "en"
 mainSections = ["posts"]
 
 [[params.socials]]
+name = "Distillery"
+link = "https://github.com/jblukach/distillery"
+
+[[params.socials]]
 name = "Tacklebox"
 link = "https://tacklebox.tundralabs.net"
 
