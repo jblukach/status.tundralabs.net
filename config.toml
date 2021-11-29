@@ -1,4 +1,3 @@
-baseURL = "status.tundralabs.net"
 languageCode = "en-us"
 title = "Tacklebox - Cloud Investigation Bot Status"
 theme = "yinyang"
