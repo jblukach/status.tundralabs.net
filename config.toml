@@ -27,4 +27,3 @@ link = "https://tacklebox.tundralabs.net"
 [[params.socials]]
 name = "RSS"
 link = "/index.xml"
-
