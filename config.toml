@@ -27,3 +27,7 @@ link = "https://tacklebox.tundralabs.net"
 [[params.socials]]
 name = "RSS"
 link = "/index.xml"
+
+[[params.socials]]
+name = "Donation"
+link = "https://jblukach.gumroad.com/l/TACKLEBOX"
